@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2d64cedfc24594cedaf8ec4d6110d781
+  m_SerializeEntries:
+  - m_GUID: 286f585985fc34c40ab4d3bd8526a7c6
+    m_Address: Assets/Prefabs/RedCube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RedCube
+    - Cube
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11b8cafd7692642018d5f86fed52498f
+    m_Address: Assets/Prefabs/YellowCube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - RedCube
+    - Cube
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7831c7837c81e46b881412f2b4f34b8c
+    m_Address: Assets/Materials/Red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17b68852c16584236b2e790c7c76de13
+    m_Address: Assets/Materials/Yellow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 066908c4cca8c43cbb47147e8412c458, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 80849906f0eec4d0f95d3d662d07925f, type: 2}
+    - {fileID: 11400000, guid: 0f438cdfc17be4323a746c39fdb20dda, type: 2}
